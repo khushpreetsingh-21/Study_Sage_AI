@@ -4,8 +4,7 @@
 It uses **Natural Language Processing (NLP)** and **Machine Learning** to analyze past-year question papers and **predict the most important exam topics**.
 
 🎓 **Official Live App:**  
-🔗 [https://studysage-ai-zghwvw27phgne94ludtnhe.streamlit.app/](https://studysage-ai-zghwvw27phgne94ludtnhe.streamlit.app/)
-
+🔗 https://studysageai-6hbiupgutoyujtzqmr3uns.streamlit.app/
 ---
 
 ## 🚀 **Project Overview**
